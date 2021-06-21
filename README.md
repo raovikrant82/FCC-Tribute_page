@@ -23,7 +23,7 @@ Project was initially done on Codepen.io and later code is uploaded to github
 👤 **Author1**
 
 - GitHub: [@raovikrant82](https://raovikrant82.github.io/FCC-Tribute_page/)
-- Twitter: [@twitterhandle](https://twitter.com/Imvikrantrao)
+- Twitter: [@Imvikrantrao](https://twitter.com/Imvikrantrao)
 
 ## 🤝 Contributing
 
