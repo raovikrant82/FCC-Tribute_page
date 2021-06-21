@@ -1,46 +1,47 @@
-body{
-    margin:0;
-    padding: 0;
-  }
-  
-  span{
-    font-size: 50px;
-  }
-  
-  h2, p{
-    text-align: left;
-    font-size: 20px;
-  }
-  
-  #main{
-    text-align: center;
-  }
-  
-  #title{
-    font-size: 70px;
-    background-color: gray;
-    padding: 50px;
-    margin: 10px 0;
-  }
-  
-  #img-div{
-    margin: 10px auto;
-    width: 70vw;
-  }
-  
-  #image{  
-    display:block;
-    max-width: 100%;
-    height: auto;
-    margin: 0 auto;
-  }
-  
-  #img-caption{
-    text-align: left;
-    padding: 10px 30px;
-  }
-  
-  #tribute-info{
-    width: 70vw;
-    margin: 0 auto;
-  }
+body {
+  margin: 0;
+  padding: 0;
+}
+
+span {
+  font-size: 50px;
+}
+
+h2,
+p {
+  text-align: left;
+  font-size: 20px;
+}
+
+#main {
+  text-align: center;
+}
+
+#title {
+  font-size: 70px;
+  background-color: gray;
+  padding: 50px;
+  margin: 10px 0;
+}
+
+#img-div {
+  margin: 10px auto;
+  width: 70vw;
+}
+
+#image {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto;
+}
+
+#img-caption {
+  text-align: left;
+  padding: 10px 30px;
+}
+
+#tribute-info {
+  width: 70vw;
+  margin: 0 auto;
+}
